@@ -1,0 +1,6 @@
+CREATE TABLE Images (
+	ID INTEGER PRIMARY KEY,
+	Description TEXT,
+	Type TEXT,
+	Size TEXT,
+	Image BLOB);
